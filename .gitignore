@@ -1,0 +1,12 @@
+@'
+Data Set (1).zip
+Data Set (1)/
+P-GPR-Dataset-main/
+runs/
+*.pt
+__pycache__/
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+'@ | Set-Content .gitignore
